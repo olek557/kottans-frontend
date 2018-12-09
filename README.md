@@ -20,7 +20,7 @@ I found few new option for commands, and have good review of git basics. Also I 
 
 ![HTML course completed](task_html_css_intro/HTML_course.png)
 ![CSS course completed](task_html_css_intro/css.png)
-![HTML and CSS course completed](task_html_css_intro/css.png)
+![HTML and CSS course completed](task_html_css_intro/intro_html_and_css_complete.png)
 
 Just refreshed my memory about HTML and CSS stuff.
 
