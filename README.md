@@ -11,4 +11,9 @@ Also i read good articles with short explanation of HTTP. It was helpfull for me
 ## Git Collaboration
 ![Git course completed](task_git_collaboration/git1.png)
 ![Git collaboration course completed](task_git_collaboration/github_collab.png)
-I found new few option for commands, and have good review of git basics. Also I understand rebase command for squashing commit. 
+I found new few option for commands, and have good review of git basics. Also I understand rebase command for squashing commit.
+
+## Intro to HTML and CSS
+![HTML course completed](task_html_css_intro/HTML_course.png)
+![CSS course completed](task_html_css_intro/css.png)
+Just refreshed my memory about HTML and CSS stuff.
