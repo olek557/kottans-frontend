@@ -30,3 +30,10 @@ Just refreshed my memory about HTML and CSS stuff.
 ![CSS course completed](task_responsive_web_design/flex-frog.png)
 
 Also this theme i have refreshed in my memories. It was good for me to recall about responsive design patterns and optimization. And it was second time when i finished Flexbox Froggy game.
+
+## JS Basics
+
+![JS course completed](task_js_basics/javascript_course.png)
+![Tasks complete](task_js_basics/codecamp_first.png)
+
+I renewed basic things about js in this course and had a good practice in codecamp. It was interesting to compare my code with provided solution and analyze what was bad and good point in my coding. And it was powerfull to watch Data Structures and Algorithms in JavaScript. 
