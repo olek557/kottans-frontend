@@ -36,4 +36,12 @@ Also this theme i have refreshed in my memories. It was good for me to recall ab
 ![JS course completed](task_js_basics/javascript_course.png)
 ![Tasks complete](task_js_basics/codecamp_first.png)
 
-I renewed basic things about js in this course and had a good practice in codecamp. It was interesting to compare my code with provided solution and analyze what was bad and good point in my coding. And it was powerfull to watch Data Structures and Algorithms in JavaScript. 
+I renewed basic things about js in this course and had a good practice in codecamp. It was interesting to compare my code with provided solution and analyze what was bad and good point in my coding. And it was powerfull to watch Data Structures and Algorithms in JavaScript.
+
+## DOM
+
+![DOM course completed](task_js_dom/dom_course_complete.png)
+![Tasks complete](task_js_dom/codecamp_second.png)
+
+A good course to repeat knowledge about DOM. I got a few forgotten things in "Performance part". It was also interesting to solve Codecamp's tasks, however it was more easy rather previous.
+And I really enjoy first practical task.
