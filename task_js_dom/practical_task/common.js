@@ -32,8 +32,8 @@ function generateContent(book) {
 }
 
 var book = getBook('./book.json'),
-    sidebar = document.getElementsByClassName('sidebar')[0],
-    contentWrapper = document.getElementsByClassName('content')[0];
+    sidebar = document.getElementById('sidebar'),
+    contentWrapper = document.getElementById('content');
 
 sidebar.addEventListener('click',function(event){
   if(event.target.tagName === 'LI') {
