@@ -45,3 +45,12 @@ I renewed basic things about js in this course and had a good practice in codeca
 
 A good course to repeat knowledge about DOM. I got a few forgotten things in "Performance part". It was also interesting to solve Codecamp's tasks, however it was more easy rather previous.
 And I really enjoy first practical task.
+
+## A Tiny JS World
+
+[Demo](https://olek557.github.io/a-tiny-JS-world/) |
+[Code base](https://github.com/olek557/a-tiny-JS-world/tree/populate-world)
+
+Reviewed and approved by @OleksiyRudenko
+
+When i have finished task I felt that it need to implement it with help of OOP. Now i am waiting to rewrite this stuff. Also I thank @OleksiyRudenko for showing my mistakes.
