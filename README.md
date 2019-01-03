@@ -44,7 +44,13 @@ I renewed basic things about js in this course and had a good practice in codeca
 ![Tasks complete](task_js_dom/codecamp_second.png)
 
 A good course to repeat knowledge about DOM. I got a few forgotten things in "Performance part". It was also interesting to solve Codecamp's tasks, however it was more easy rather previous.
-And I really enjoy first practical task.
+
+Practical task
+[Demo](https://olek557.github.io/kottans-frontend/task_js_dom/practical_task/index.html) |
+[Code base](https://github.com/olek557/kottans-frontend/tree/master/task_js_dom/practical_task)
+Reviewed and approved by @zonzujiro
+  
+I really enjoy first practical task and it's really helpful when mentors make comments and show problems, better choices or best practices.
 
 ## A Tiny JS World
 
