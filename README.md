@@ -62,3 +62,11 @@ I really enjoy first practical task and it's really helpful when mentors make co
 Reviewed and approved by @OleksiyRudenko
 
 When i have finished task I felt that it need to implement it with help of OOP. Now i am waiting to rewrite this stuff. Also I thank @OleksiyRudenko for showing my mistakes.
+
+## Object Oriented JS
+
+![DOM course completed](task_js_oop/codewars)
+
+[Codewars profile](https://www.codewars.com/users/olek557557/)
+
+It was very interesting to dig into oop. I found this course helpful to understand scopes, closures, prototypes and patterns. It's cool idea to play with frogger game, easy implemented objects and you have simple game.  And it was interesting to look into engine.js and understand how it's work.  In codewars i finished few kata with 7 and 8 kyu difficulty, it was easy but good js training. I will come back to try more dificult tasks.
