@@ -65,7 +65,7 @@ When i have finished task I felt that it need to implement it with help of OOP. 
 
 ## Object Oriented JS
 
-![DOM course completed](task_js_oop/codewars)
+![DOM course completed](task_js_oop/complete_oop_course.png)
 
 [Codewars profile](https://www.codewars.com/users/olek557557/)
 
