@@ -70,3 +70,23 @@ When i have finished task I felt that it need to implement it with help of OOP. 
 [Codewars profile](https://www.codewars.com/users/olek557557/)
 
 It was very interesting to dig into oop. I found this course helpful to understand scopes, closures, prototypes and patterns. It's cool idea to play with frogger game, easy implemented objects and you have simple game.  And it was interesting to look into engine.js and understand how it's work.  In codewars i finished few kata with 7 and 8 kyu difficulty, it was easy but good js training. I will come back to try more dificult tasks.
+
+Reviewed and approved by @OleksiyRudenko
+
+## OOP Exercise
+
+[Demo](https://olek557.github.io/a-tiny-JS-world/) |
+[Code base](https://github.com/olek557/a-tiny-JS-world/tree/populate-world-oop)
+
+It was interesting to rewrite code with oop principles. I try ES6 classes and will use it in future. Also get lot of cool things from @OleksiyRudenko.
+
+Reviewed and approved by @OleksiyRudenko
+
+## Memory Pair Game
+
+[Demo](https://olek557.github.io/memory-game/) |
+[Code base](https://github.com/olek557/memory-game)
+
+Reviewed and approved by @AMashoshyna
+
+It's awesome to make own game. I learn how to shuffle array, implement game with oop and dealt with flipping animation. Want to improve my game with more beautiful front side of cards and few logic things.
