@@ -90,3 +90,13 @@ Reviewed and approved by @OleksiyRudenko
 Reviewed and approved by @AMashoshyna
 
 It's awesome to make own game. I learn how to shuffle array, implement game with oop and dealt with flipping animation. Want to improve my game with more beautiful front side of cards and few logic things.
+
+## Friends App
+
+[Demo](https://olek557.github.io/friends-app/) |
+[Code base](https://github.com/olek557/friends-app)
+
+Reviewed and approved by @zonzujiro
+
+It was quite hard to make such application. I learn about fetch data from API, sorting, search and filtering results (before now i was thinking that this is rocket science)
+
